@@ -1,37 +1,22 @@
-# Vaibhav Kotwal | Commerce to Tech: Python & FinTech Enthusiast
+# Hi there! I'm Vaibhav Kotwal ✋
 
-<div align="center">
+### 🛠️ Tech Stack
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E7D32&width=435&lines=Vaibhav+Kotwal+%F0%9F%91%8B;B.Com+Graduate+%F0%9F%93%8A;Python+%2B+FinTech+Learner+%F0%9F%92%B3;Bridge+Between+Finance+%26+Code+%E2%9A%A1" alt="Typing SVG" />
+#### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <p align="center">
-    <b>Building smart, data-driven solutions at the intersection of Finance and Technology.</b>
-  </p>
+#### 📊 Data, Spreadsheets & Analytics
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Advanced VLOOKUP & Pivot Tables](https://img.shields.io/badge/VLOOKUP_%26_Pivot_Tables-1D6F42?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-00599C?style=for-the-badge)
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-FinTech%20%26%20Analytics-green?style=for-the-badge&logo=googlecard&logoColor=white" />
-    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Background-B.Com%20Commerce-00599C?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </p>
+#### 💳 FinTech & Core Domains
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-2E7D32?style=for-the-badge)
+![Ledger & Banking Logic](https://img.shields.io/badge/Ledger_%26_Banking_Logic-0073E6?style=for-the-badge)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-D84315?style=for-the-badge)
 
-</div>
-
----
-
-### 🚀 About Me
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   ▸ Name: Vaibhav Kotwal                                │
-│   ▸ Background: B.Com Graduate with strong expertise    │
-│     in Finance, Accounting, and Business Analytics.     │
-│                                                         │
-│   ▸ Focus: Building Python applications targeting       │
-│     FinTech, financial modeling, and data automation.   │
-│                                                         │
-│   ▸ Mission: Leverage commerce fundamentals with       │
-│     modern tech stacks to solve complex financial      │
-│     and data problems.                                  │
-│                                                         │
+#### ☁️ Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 └─────────────────────────────────────────────────────────┘
