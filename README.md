@@ -36,7 +36,7 @@ Commerce graduate bridging business, financial logic, and software engineering t
 * 🎯 **Goal:** Leveraging financial domain expertise to build modern data and FinTech applications[cite: 1].
 
 ---
-![](https://streak-stats.demolab.com/?user=vaibhavkotwal1-cloud &theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=vaibhavkotwal1 &theme=dark&hide_border=false)<br/>
 
 ---
 
