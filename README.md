@@ -36,23 +36,7 @@ Commerce graduate bridging business, financial logic, and software engineering t
 * 🎯 **Goal:** Leveraging financial domain expertise to build modern data and FinTech applications[cite: 1].
 
 ---
-
-### 🚀 Featured Projects
-
-#### 💳 Financial Calculator Engine
-* **Tech Stack:** Python
-* Engineered custom Python scripts for computing interest rates, compounding schedules, EMI distributions, and tax metrics[cite: 1].
-* Built clean input-validation logic to calculate profit margins and produce accurate commercial reports[cite: 1].
-
-#### 📈 Ledger & Banking System Simulator
-* **Tech Stack:** Python
-* Simulates core double-entry accounting transactions, digital wallet balances, and debit/credit ledger operations[cite: 1].
-* Implemented modular Python logic to maintain error-free balance logs across transaction cycles[cite: 1].
-
-#### 📊 Commercial Data Automation Script
-* **Tech Stack:** Python · Advanced Excel
-* Automated the parsing and processing of large commercial datasets directly into formatted spreadsheets[cite: 1].
-* Designed script-driven data cleanup routines to streamline reporting and eliminate manual entry errors[cite: 1].
+![](https://streak-stats.demolab.com/?user=vaibhavkotwal1-cloud &theme=dark&hide_border=false)<br/>
 
 ---
 
