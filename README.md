@@ -42,10 +42,10 @@ Commerce graduate bridging business, financial logic, and software engineering t
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=emerald&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VaibhavKotwal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VaibhavKotwal1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavKotwal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
