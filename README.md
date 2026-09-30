@@ -1,4 +1,4 @@
-# Hi there! I'm Vaibhav Kotwal 👋
+# Hi there! I'm Vaibhav Kotwal 👋  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FVaibhavKotwal1&label=Page+Guest+&icon=emoji-sunglasses-fill&color=%23479f76&message=&style=for-the-badge&tz=UTC">
 
 ### 🛠️ Tech Stack
 
