@@ -1,6 +1,9 @@
 # Hi there! I'm Vaibhav Kotwal 👋  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FVaibhavKotwal1&label=Page+Guest+&icon=emoji-sunglasses-fill&color=%23479f76&message=&style=for-the-badge&tz=UTC">
 
 ### 🛠️ Tech Stack
+<img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKotwal1&layout=compact&theme=tokyonight&hide_border=true"
+        width="40%">
 
 #### 💻 Languages & Frameworks & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,12 +39,11 @@ Commerce graduate bridging business, financial logic, and software engineering t
 
 ### 📊 GitHub Analytics
 
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VaibhavKotwal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=VaibhavKotwal1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavKotwal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=VaibhavKotwal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=VaibhavKotwal1&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
+</p>
+<br/>
 
 ### 🌐 Let's Connect!
 
